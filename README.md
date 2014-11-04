@@ -1,6 +1,6 @@
 # socketer
 
-![Alt text](socketer.log.png )
+![Alt text](socketer.log.png = 50x50)
 ### A Simple Web Socket Client ###
 
 # App Deploy on bitballoon

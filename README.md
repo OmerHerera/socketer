@@ -4,7 +4,7 @@
 ### A Simple Web Socket Client ###
 
 # App Deploy on Heroku
-[socketer on Heroku](https://socketer.herokuapp.com)
+[socketer on Heroku](http://omerherera.github.io/socketer/)
 
 # Dependencies
 * [Bootstrap](http://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
